@@ -1,6 +1,7 @@
 ## The naive ICP demo
 
 The code is the basic Iterative Closest Point demo with 2D laser range finder data. It is modified from Tim and Fabio's original version.
+It is already update to update_ab_icp.
 
 ## Notification
 
